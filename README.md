@@ -1,3 +1,8 @@
+## My VSCode Extension repositories
+
+- https://github.com/mohitkumartoshniwal/3d-preview
+- https://github.com/mohitkumartoshniwal/jsonlens
+
 ## References
 
 - https://github.com/microsoft/vscode-webview-ui-toolkit-samples/tree/main/frameworks/hello-world-react-vite
